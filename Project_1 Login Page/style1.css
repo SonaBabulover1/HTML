@@ -1,0 +1,8 @@
+body
+{
+    background-image:url("lights.jpg");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
